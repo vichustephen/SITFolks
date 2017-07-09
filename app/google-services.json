@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "309631457568",
+    "firebase_url": "https://sit-folks.firebaseio.com",
+    "project_id": "sit-folks",
+    "storage_bucket": "sit-folks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309631457568:android:ec1046bf9e737038",
+        "android_client_info": {
+          "package_name": "com.seven.zion.sitfolks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309631457568-a4q4hao2f7vnl449o9u4n7s10cka3k6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seven.zion.sitfolks",
+            "certificate_hash": "405b453ff636901ee3afec2fd483536fbaca124e"
+          }
+        },
+        {
+          "client_id": "309631457568-e9ucpt8n1nsvv9ag9pc7abqisbq4c3sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL4KEXcXx5cydTmpGF9-sUlW4DNgiN95c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309631457568-e9ucpt8n1nsvv9ag9pc7abqisbq4c3sb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
